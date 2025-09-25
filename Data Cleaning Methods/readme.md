@@ -33,7 +33,7 @@
   - Formula: `Total income / Total expenses`  
   - Categories:  
     - > 1 → "Financially stable"  
-    - = 1 → "Break even"  
+    - = 1 → "Break even"
     - < 1 → "In debt"  
 
 - **Financial Aid Dependency:**  
