@@ -1,5 +1,6 @@
-#Background and Purpose:
+# Background and Purpose:
 
+##
 The data analysis project uses data from 1000 students across various demographic groups and academic backgrounds.
 The dataset includes information such as age, gender, year in school, major, monthly income, financial aid received, and expenses in different spending categories.
 Spending categories include tuition, housing, food, transportation, books & supplies, entertainment, personal care, technology, health & wellness, and miscellaneous expenses.
