@@ -14,5 +14,5 @@ Highlights
 Contributors
 The presentation was developed collaboratively by our team, with responsibilities as follows:
 - **Steven Pham** – Research design and data cleaning.  
-- ** Nicholas Tang** – Data analysis, visualization, and slide contributions.  
+- **Nicholas Tang** – Data analysis, visualization, and slide contributions.  
 - **Alexander Cheung** – Presentation design and delivery prep.  
